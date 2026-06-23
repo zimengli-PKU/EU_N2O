@@ -1,0 +1,9 @@
+# Data Description:
+This folder contains all data used to plot main figures.
+
+# Contents:
+mdl_performance.mat: LSTM model simulation performance displayed in figure1a,b.
+sequence_list.xlsx: The N2O emission sequence displayed in figure1c.
+E_estimation.mat: Estimated N2O emissions during 2000-2020, and daily crop-specific emission in 2020, used for figure2 and figure3.
+inventory_emissions_country.xlsx: N2O emissions in EU countries across existing inventories and of our estimation, used for figure4.
+Europe_country_0p25deg.tif: EU countries included by our estimation, used for figure4c.
