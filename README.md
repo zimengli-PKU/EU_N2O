@@ -1,9 +1,13 @@
 # AI-based models trained on site flux measurements reveal the spatiotemporal dynamics of daily cropland N2O emissions across Europe
 
 This repository contains the visualization scripts associated with the manuscript:
+Li et al. "AI-based models trained on site flux measurements reveal the spatiotemporal dynamics of daily cropland N2O emissions across Europe."
 
-Li et al.
-"AI-based models trained on site flux measurements reveal the spatiotemporal dynamics of daily cropland N2O emissions across Europe."
+Note: The model training codes and data preprocessing workflows are described in the Methods section of the manuscript. The modeling code is available from the corresponding author upon reasonable request.
+
+**Correspondence**
+Zimeng Li (zmli@pku.edu.cn)
+
 
 
 ## System requirements
@@ -38,7 +42,3 @@ Drafting the figures only take several seconds.
 ## Instructions for use
 
 Please 'load *.mat' before running the codes.
-
-
-Correspondence:
-Zimeng Li (zmli@pku.edu.cn)
